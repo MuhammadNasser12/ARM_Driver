@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;01-LIB, 02-MCAL, 03-Hal, 04-APP&apos; to &apos;include&apos;" description="Move 4 resources to &apos;include&apos;" destination="include" element1="/system/include/01-LIB" element2="/system/include/02-MCAL" element3="/system/include/03-Hal" element4="/system/include/04-APP" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="4" stamp="1703613955267" updateReferences="true"/>
+</session>

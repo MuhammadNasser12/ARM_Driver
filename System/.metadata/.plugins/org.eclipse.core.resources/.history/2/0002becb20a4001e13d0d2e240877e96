@@ -1,0 +1,17 @@
+/*********************************************************/
+/* Author    : Muhammad Naser 							 */
+/* Date  	 : 15/12/2023								 */
+/* Version 	 :	V01										 */
+/*********************************************************/
+
+#ifndef RCC_CONFIG_H
+#define RCC_CONFIG_H
+
+/*Options : RCC_HSE_CRYSTAL
+			RCC_HSE_RC
+			RCC_HSI
+			RCC_PLL
+*/
+#define RCC_CLOCK_TYPE		 RCC_HSE_CRYSTAL
+
+#endif
